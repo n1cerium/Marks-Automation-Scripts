@@ -8,5 +8,7 @@ A Python scripts that automates marking a specific frame of a video based on cal
 * FFmpeg
 
 ### Following images are example of files and output when the script is run
-
+#### Baselight_GLopez_20230325
 ![image](https://github.com/n1cerium/Marks-Automation-Scripts/assets/114702605/95226257-07f2-4c43-8774-8ea523e2a6ec)
+
+
