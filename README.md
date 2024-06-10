@@ -1,5 +1,5 @@
 # Marks-Automation-Scripts
-A Python scripts that automates marking a specific frame of a video based on calculated frames in range from the data of Baselight and Flame machines. The Frames Ranges are stored in the MongoDB along with the file location from the Xytech files where the frames are located
+A Python scripts that automates marking a specific frame of a video based on calculated frames in range from the data of Baselight and Flame machines. The Frames Ranges are stored in the MongoDB along with the file location from the Xytech files where the frames are located. The locations of the frames from Baselight and Flame files are deteremined or parsed from the Xytech files to produce timecode ranges and show the thumbnail of a video from those timcodes
 
 ### Technologies
 * Visual Studio Code
